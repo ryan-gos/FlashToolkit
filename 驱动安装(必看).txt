@@ -1,0 +1,5 @@
+请依照"fastboot驱动安装.png"安装fastboot驱动
+提醒:
+1.请在连接fastboot情况下安装
+2.在设备管理器安装
+3. .inf文件在usb_driver目录下

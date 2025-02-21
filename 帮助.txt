@@ -1,0 +1,10 @@
+作者 = RyanGos
+Github = requests.get("https://github.com/ryan-gos") 
+Bilibili = <a href="https://space.bilibili.com/1718298660"></a>
+
+这只是一个没什么功能的工具,beta阶段,希望大家可以提出一些意见,想法,我会尽量做到
+写这个主要是为了方便自己,学习编程,写着写着觉得可以发布出去
+如果使用过程有什么不满,bug,可以到qq群反馈,群号软件里有
+
+
+谢谢你们的支持!!
